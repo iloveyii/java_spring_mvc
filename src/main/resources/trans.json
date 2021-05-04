@@ -1,0 +1,20 @@
+{
+  "sv": {
+    "title" : "Välkommen till översättningstjänster",
+    "subtitle": "Vi tillhandahåller översättning och andra dokumentationshjälp",
+    "localization1": "De flesta stora företag har ambitionen att gå globalt med sina produkter och tjänster.",
+    "localization2": "De flesta stora företag har ambitionen att gå globalt med sina produkter och tjänster."
+  },
+  "en" : {
+    "title" : "Welcome to translations services",
+    "subtitle": "We provide translation and other documentations help",
+    "localization1" : "Most large companies have the ambition of going global with their products and services.",
+    "localization2" : "Most large companies have the ambition of going global with their products and services."
+  },
+  "ar": {
+    "title" : "مرحبا بكم في خدمات الترجمة",
+    "subtitle": "نحن نقدم المساعدة في الترجمة وغيرها من الوثائق",
+    "localization1": "تطمح معظم الشركات الكبيرة إلى الوصول إلى العالمية بمنتجاتها وخدماتها.",
+    "localization2": "تطمح معظم الشركات الكبيرة إلى الوصول إلى العالمية بمنتجاتها وخدماتها."
+  }
+}

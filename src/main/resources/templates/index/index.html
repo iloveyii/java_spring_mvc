@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Translation | Services</title>
+    <link rel="stylesheet" href="/css/main.css" />
+</head>
+<body class="d-flex flex-column sticky-footer-wrapper">
+<!-- Nav bar -->
+<header class="mb-auto">
+    <div th:insert="~{index/_nav :: nav}"></div>
+</header>
+
+<!-- Begin page content -->
+<main class="flex-shrink-0">
+    <section class="top-v" th:insert="~{index/_top-v :: top-v}"></section>
+    <section class="center-r" th:insert="~{index/_center-r :: center-r}"></section>
+    <section class="services" id="services" th:insert="~{index/_services :: services}"></section>
+    <section class="article" th:insert="~{index/_article :: article}"></section>
+    <section class="quote" id="quote" th:insert="~{index/_quote :: quote}"></section>
+</main>
+
+<footer th:insert="~{index/_footer :: footer}" class="footer mt-auto"></footer>
+<script src="/js/web.js"></script>
+</body>
+</html>
